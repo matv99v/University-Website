@@ -7,7 +7,7 @@
 
 html{
     min-width: 300px;
-    font-size: 0.25vw;
+    font-size: 0.25vmin;
 }
 
 
@@ -26,7 +26,7 @@ h1{
 
 h2, input[type="submit"]{
     /*font-size: 33px;*/
-    font-size: 41rem;
+    font-size: 30rem;
     font-weight: normal;
 }
 
@@ -35,14 +35,14 @@ h2, input[type="submit"]{
 
 h3, textarea, input, select{
     /*font-size: 22px;*/
-    font-size: 27rem;
-    line-height: 37px;
+    font-size: 22rem;
+    line-height: 30rem;
     text-decoration: none;
 }
 
 a{
     /*font-size: 22px;*/
-    font-size: 27rem;
+    font-size: 20rem;
     text-decoration: none;
     color: #373737;
 }
@@ -51,7 +51,7 @@ a{
 
 p{
     /*font-size: 18px;*/
-    font-size: 23rem;
+    font-size: 16rem;
 }
 
 /*-----SPECIAL------------------------------------------------------*/
