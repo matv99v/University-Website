@@ -286,8 +286,8 @@ form > h2{
 form > *:not(h2):not([type="submit"]):not(textarea){
     width: 85%;
     color: #373737;
-    margin-bottom: 15px;
-    border: 1px solid #e1e1e1;
+    margin-bottom: 13px;
+    border: 2px solid #e1e1e1;
     border-radius: 0;
     background-color: #f2f2f2;
     height: 52px;
@@ -299,8 +299,8 @@ form > textarea {
     width: 85%;
     -height: 72px;
     color: #373737;
-    margin-bottom: 15px;
-    border: 1px solid #e1e1e1;
+    margin-bottom: 13px;
+    border: 2px solid #e1e1e1;
     background-color: #f2f2f2;
     resize: none;
 
@@ -323,7 +323,7 @@ form > input[type="submit"]{
 
 section.abc-university{
     background-color: #f2f2f2;
-    padding: 17px 0 28px 0;
+    padding: 27px 0 37px 0;
 }
 
 section.abc-university > * {
