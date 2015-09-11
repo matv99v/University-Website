@@ -21,9 +21,12 @@ h1{
 }
 
 h2, input[type="submit"]{
-    font-size: 20px;
+    font-size: 30px;
     font-weight: normal;
 }
+
+
+
 
 h3{
     font-size: 20px;
