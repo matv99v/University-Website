@@ -2,7 +2,7 @@
 *{
     margin: 0;
     padding: 0;
-    outline: 1px solid lime;
+    -outline: 1px solid lime;
 }
 
 html{
@@ -40,7 +40,7 @@ h3, textarea, input, select{
     text-decoration: none;
 }
 
-a{
+a:not(header a){
     /*font-size: 22px;*/
     font-size: 20rem;
     text-decoration: none;
@@ -146,8 +146,8 @@ footer > div > *{
 
 header > div.in-circle,
 footer > div.in-circle{
-    width: 75px;
-    height: 75px;
+    width: 70rem;
+    height: 70rem;
     border-color: white;
     margin-top: 20px;
 }
@@ -158,7 +158,6 @@ footer > div.socials{
     -webkit-justify-content: space-around;
     -ms-flex-pack: distribute;
     justify-content: space-around;
-    -width: 50%;
 
 }
 
@@ -172,7 +171,7 @@ footer > hr{
 
 header > div.socials > *,
 footer > div.socials > * {
-    padding: 0 4px;
+    padding: 0 1.5vw;
 
 
 
@@ -210,9 +209,11 @@ footer{
     padding-bottom: 70px;
 }
 
-header svg, footer svg {
+header a, footer a {
     fill: white;
-    width: 30px;
+    width: 25rem;
+    height: 25rem;
+
 }
 
 /*header svg {*/
