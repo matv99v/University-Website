@@ -21,21 +21,21 @@
       <content type="file-editors">
         <state>
           <leaf>
-            <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+            <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
               <entry file="file://$PROJECT_DIR$/css/style.css">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state vertical-scroll-proportion="0.09478673">
-                    <caret line="88" column="3" selection-start-line="88" selection-start-column="3" selection-end-line="88" selection-end-column="3" />
+                  <state vertical-scroll-proportion="0.0">
+                    <caret line="114" column="12" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
                     <folding />
                   </state>
                 </provider>
               </entry>
             </file>
-            <file leaf-file-name="style_prefixed.css" pinned="false" current-in-tab="false">
+            <file leaf-file-name="style_prefixed.css" pinned="false" current-in-tab="true">
               <entry file="file://$USER_HOME$/Desktop/Koding/GoFe5/MakeUp/Exam2/css/style_prefixed.css">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state vertical-scroll-proportion="0.0">
-                    <caret line="575" column="1" selection-start-line="575" selection-start-column="1" selection-end-line="575" selection-end-column="1" />
+                  <state vertical-scroll-proportion="0.5450237">
+                    <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
                     <folding />
                   </state>
                 </provider>
@@ -436,12 +436,12 @@
       <workItem from="1441791993976" duration="9223000" />
       <workItem from="1441807339257" duration="1658000" />
       <workItem from="1441828166804" duration="2448000" />
-      <workItem from="1441948966823" duration="17469000" />
+      <workItem from="1441948966823" duration="17561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175761000" />
+    <option name="totallyTimeSpent" value="175853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-871" y="24" width="425" height="731" extended-state="0" />
@@ -733,22 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Koding/GoFe5/MakeUp/Exam2/css/style_prefixed.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="575" column="1" selection-start-line="575" selection-start-column="1" selection-end-line="575" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09478673">
-          <caret line="88" column="3" selection-start-line="88" selection-start-column="3" selection-end-line="88" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30405405">
@@ -761,6 +745,22 @@
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="114" column="12" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Koding/GoFe5/MakeUp/Exam2/css/style_prefixed.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5450237">
+          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
