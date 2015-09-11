@@ -152,7 +152,7 @@ footer > div.socials{
 header > hr,
 footer > hr{
     min-width: 300px;
-    width: calc(110px + 35vw);
+    width: calc(75px + 35vw);
     border: 0;
     border-top: 2px solid #2277ba;
 }
