@@ -138,12 +138,18 @@ footer{
     padding-bottom: 70px;
 }
 
-header img{
+header svg, footer svg {
+    fill: white;
+    width: 30px;
+    padding-rigth: 5px;
+}
+
+header svg {
     transition: transform 0.2s ease;
 }
 
-header img:hover{
-    transform: scale(1.3, 1.3);
+header svg:hover{
+    transform: scale(1.4, 1.4);
 }
 
 
