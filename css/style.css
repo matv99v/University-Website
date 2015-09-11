@@ -25,7 +25,8 @@ h1{
 }
 
 h2, input[type="submit"]{
-    font-size: 33px;
+    /*font-size: 33px;*/
+    font-size: 41rem;
     font-weight: normal;
 }
 
@@ -33,12 +34,15 @@ h2, input[type="submit"]{
 
 
 h3, a, textarea, input, select{
-    font-size: 22px;
+    /*font-size: 22px;*/
+    font-size: 27rem;
     line-height: 37px;
 }
 
 p{
-    font-size: 18px;
+    /*font-size: 18px;*/
+    font-size: 23rem;
+
 }
 
 /*-----SPECIAL------------------------------------------------------*/
