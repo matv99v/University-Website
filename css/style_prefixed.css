@@ -145,7 +145,7 @@ footer > div.socials{
     -webkit-justify-content: space-around;
     -ms-flex-pack: distribute;
     justify-content: space-around;
-    width: 60%;
+    width: 50%;
 
 }
 
@@ -202,16 +202,13 @@ header svg, footer svg {
     width: 30px;
 }
 
-header svg {
-    -webkit-transition: -webkit-transform 0.2s ease;
-    transition: transform 0.2s ease;
-}
+/*header svg {*/
+/*transition: transform 0.2s ease;*/
+/*}*/
 
-header svg:hover{
-    -webkit-transform: scale(1.4, 1.4);
-    -ms-transform: scale(1.4, 1.4);
-    transform: scale(1.4, 1.4);
-}
+/*header svg:hover{*/
+/*transform: scale(1.4, 1.4);*/
+/*}*/
 
 
 /*-----BACKGROUND IMAGE------------------------------------------------------*/
