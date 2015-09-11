@@ -133,8 +133,8 @@ footer > div > *{
 
 header > div.in-circle,
 footer > div.in-circle{
-    width: 77px;
-    height: 77px;
+    width: 85px;
+    height: 85px;
     border-color: white;
     margin-top: 20px;
 }
