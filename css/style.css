@@ -36,7 +36,7 @@ h2, input[type="submit"]{
 h3, textarea, input, select{
     /*font-size: 22px;*/
     font-size: 5vmin;
-    line-height: 7vmin;
+    line-height: 7.75vmin;
     text-decoration: none;
 }
 
@@ -63,7 +63,7 @@ div.socials{
 
 
 .in-circle{
-    border: 3px solid;
+    border: 2px solid;
     border-radius: 50%;
     display: inline-flex;
     align-items: center;
@@ -111,8 +111,8 @@ footer > div > *{
 
 header > div.in-circle,
 footer > div.in-circle{
-    width: 15.5vmin;
-    height: 15.5vmin;
+    width: 16vmin;
+    height: 16vmin;
     border-color: white;
     margin-top: 15px;
 }
@@ -199,7 +199,7 @@ body > div{
 body > div > div.bg-img{
     background: url(../img/university_small.jpg) no-repeat 48% 25%;
     background-size: 400%;
-    height: 350px;
+    height: 110vmin;
     width: 100%;
     z-index: -1;
     position: relative;
