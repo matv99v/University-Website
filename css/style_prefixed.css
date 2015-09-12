@@ -18,7 +18,7 @@ html{
 .text-bold{font-weight: bold;}
 
 h1{
-    font-size: 13.75vmin;
+    font-size: 13.5vmin;
     /*font-size: 49px;*/
 
 
@@ -26,7 +26,7 @@ h1{
 
 h2, input[type="submit"]{
     /*font-size: 33px;*/
-    font-size: 7.5vmin;
+    font-size: 7.1vmin;
     font-weight: normal;
 }
 
@@ -35,8 +35,8 @@ h2, input[type="submit"]{
 
 h3, textarea, input, select{
     /*font-size: 22px;*/
-    font-size: 5.5vmin;
-    line-height: 7.5vmin;
+    font-size: 5.1vmin;
+    line-height: 7.1vmin;
     text-decoration: none;
 }
 
@@ -268,7 +268,7 @@ section.welcome{
     -webkit-align-content: center;
     -ms-flex-line-pack: center;
     align-content: center;
-    padding: 30px 0 30px 0;
+    padding: 7vmin 0 12vmin 0;
     z-index: 2;
 
 }
@@ -280,7 +280,7 @@ section.welcome h3 {
 }
 
 section.welcome h1{
-    margin-bottom: 5px;
+    margin-bottom: 3vmin;
 }
 
 
