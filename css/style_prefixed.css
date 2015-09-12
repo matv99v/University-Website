@@ -6,8 +6,6 @@
 }
 
 html{
-    min-width: 300px;
-    font-size: 0.25vmin;
 }
 
 
@@ -36,11 +34,11 @@ h2, input[type="submit"]{
 h3, textarea, input, select{
     /*font-size: 22px;*/
     font-size: 5vmin;
-    line-height: 7.75vmin;
+    line-height: 8vmin;
     text-decoration: none;
 }
 
-a:not(header a){
+a{
     /*font-size: 22px;*/
     font-size: 5vmin;
     text-decoration: none;
@@ -51,7 +49,8 @@ a:not(header a){
 
 p{
     /*font-size: 18px;*/
-    font-size: 4vmin;
+    font-size: 4.5vmin;
+    line-height: 7.5vmin;
 }
 
 /*-----SPECIAL------------------------------------------------------*/
@@ -268,7 +267,7 @@ section.welcome{
     -webkit-align-content: center;
     -ms-flex-line-pack: center;
     align-content: center;
-    padding: 7vmin 0 12vmin 0;
+    padding: 7vmin 0 10vmin 0;
     z-index: 2;
 
 }
@@ -410,8 +409,8 @@ section.why-we-best > hr{
 }
 
 section.why-we-best div.in-circle {
-    width: 49px;
-    height: 49px;
+    width: 17vmin;
+    height: 17vmin;
     border-color: #f3f3f3;
     margin: 25px 0 25px 0 ;
 }
