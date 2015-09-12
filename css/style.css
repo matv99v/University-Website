@@ -18,7 +18,7 @@ html{
 .text-bold{font-weight: bold;}
 
 h1{
-    font-size: 55rem;
+    font-size: 13.75vmin;
     /*font-size: 49px;*/
 
 
@@ -26,7 +26,7 @@ h1{
 
 h2, input[type="submit"]{
     /*font-size: 33px;*/
-    font-size: 30rem;
+    font-size: 7.5vmin;
     font-weight: normal;
 }
 
@@ -35,14 +35,14 @@ h2, input[type="submit"]{
 
 h3, textarea, input, select{
     /*font-size: 22px;*/
-    font-size: 22rem;
-    line-height: 30rem;
+    font-size: 5.5vmin;
+    line-height: 7.5vmin;
     text-decoration: none;
 }
 
 a:not(header a){
     /*font-size: 22px;*/
-    font-size: 20rem;
+    font-size: 5vmin;
     text-decoration: none;
     color: #373737;
 }
@@ -51,7 +51,7 @@ a:not(header a){
 
 p{
     /*font-size: 18px;*/
-    font-size: 16rem;
+    font-size: 4vmin;
 }
 
 /*-----SPECIAL------------------------------------------------------*/
@@ -111,30 +111,31 @@ footer > div > *{
 
 header > div.in-circle,
 footer > div.in-circle{
-    width: 70rem;
-    height: 70rem;
+    width: 17.5vmin;
+    height: 17.5vmin;
     border-color: white;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 header > div.socials,
 footer > div.socials{
-    padding: 10px 0;
+    padding: 2vmin 0 4vmin 0;
     justify-content: space-around;
 
+
 }
 
-header > hr,
-footer > hr{
-    min-width: 300px;
-    width: calc(75px + 35vw);
-    border: 0;
-    border-top: 2px solid #2277ba;
-}
+/*header > hr,*/
+/*footer > hr{*/
+    /*min-width: 300px;*/
+    /*width: calc(75px + 35vw);*/
+    /*border: 0;*/
+    /*border-top: 2px solid #2277ba;*/
+/*}*/
 
 header > div.socials > *,
 footer > div.socials > * {
-    padding: 0 1.5vw;
+    padding: 0 3vmin;
 
 
 
@@ -150,6 +151,7 @@ footer > :first-child
 header > h2,
 footer > h2{
     padding: 5px 0 ;
+    border-bottom: 2px solid #2277ba;
 
 }
 
@@ -167,8 +169,8 @@ footer{
 
 header a, footer a {
     fill: white;
-    width: 25rem;
-    height: 25rem;
+    width: 6.25vmin;
+    height: 6.25vmin;
 
 }
 
@@ -251,8 +253,8 @@ form > *:not(h2):not([type="submit"]):not(textarea){
     border: 2px solid #e1e1e1;
     border-radius: 0;
     background-color: #f2f2f2;
-    height: 52px;
-    line-height: 52px;
+    height: 12vmin;
+    line-height: 12vmin;
 }
 
 
