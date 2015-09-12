@@ -326,7 +326,7 @@ form > textarea {
 
 form > input[type="submit"]{
     background-color: #F72C2D;
-    padding: 13px 70px;
+    padding: 4vmin 20vmin;
     color: white;
     margin: 26px 0 26px 0;
     border: none;
@@ -413,7 +413,10 @@ section.why-we-best div.in-circle {
     width: 14vmin;
     height: 14vmin;
     border-color: #f3f3f3;
-    margin: 25px 0 25px 0 ;
+}
+
+section.why-we-best > a {
+    margin: 7vmin 0;
 }
 /*--------STUDENTS SAY---------------------------------------------------*/
 
@@ -434,9 +437,6 @@ section.students-say > div{
     width: 88%;
 
 }
-
-
-
 
 section.students-say > div > h2{
     margin-bottom: 20px;
@@ -469,9 +469,6 @@ section.students-say > div > svg:last-of-type {
 }
 
 
-
-
-
 section.students-say > div > p:first-of-type {
     text-align: left;
 
@@ -492,7 +489,7 @@ section.students-say div.in-circle > svg{
 
 }
 
-section.students-say > div > nav > div:last-of-type {
+section.students-say > div > nav > a:last-of-type {
     -webkit-transform: scaleX(-1);
     -ms-transform: scaleX(-1);
     transform: scaleX(-1);
@@ -527,13 +524,7 @@ section.register{
     height: 367px;
 }
 
-section.register > div.grey-div{
-    position: absolute;
-    background-color: #f2f2f2;
-    width: 100%;
-    height: 70%;
-    top: 30%;
-}
+
 
 section.register > div.man-img {
     position: absolute;
@@ -541,43 +532,34 @@ section.register > div.man-img {
     background-size: contain;
     height: 100%;
     width: 100%;
+    bottom: 0;
+    z-index: 1;
 
 }
 
-section.register > div.grey-div > div.click-btn {
+section.register > div.grey-div{
+    position: absolute;
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 70%;
+    top: 30%;
+    display: table;
+
+}
+
+section.register > div.grey-div a.click-btn {
     position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    z-index: 1;
+
+}
+
+section.register > div.grey-div a.click-btn > div {
     background-color: #f72c2d;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    -webkit-box-align: center;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
-    align-items: center;
-    margin: 0 8%;
-    padding: 3% 3%;
-    -webkit-align-self: center;
-    -ms-flex-item-align: center;
-    align-self: center;
-    z-index: 5;
-    top: 40%;
-
-
-
-
-
+    margin: 0 7vmin 0 7vmin;
+    padding: 2vmin 0;
 }
-
-section.register h2 {
-    -width: 75%;
-}
-
 
 
 section.register div.in-circle{
@@ -594,8 +576,6 @@ section.register div.in-circle svg{
     fill: white;
     width: 8vmin;
     height: 8vmin;
-
-
 }
 
 
