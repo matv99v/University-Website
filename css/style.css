@@ -356,8 +356,8 @@ section.why-we-best > hr{
 }
 
 section.why-we-best div.in-circle {
-    width: 17vmin;
-    height: 17vmin;
+    width: 14vmin;
+    height: 14vmin;
     border-color: #f3f3f3;
     margin: 25px 0 25px 0 ;
 }
@@ -428,8 +428,8 @@ section.students-say > div > nav > div:last-of-type {
 }
 
 section.students-say > div div.in-circle{
-    width: 15vmin;
-    height: 15vmin;
+    width: 14vmin;
+    height: 14vmin;
     border-color: #f3f3f3;
 }
 
@@ -488,11 +488,19 @@ section.register h2 {
 
 
 section.register div.in-circle{
-    width: 30px;
-    height: 30px;
+    width: 14vmin;
+    height: 14vmin;
     border-color: #f3f3f3;
+
+}
+
+section.register div.in-circle svg{
     transform: scaleX(-1);
     fill: white;
+    width: 8vmin;
+    height: 8vmin;
+
+
 }
 
 
