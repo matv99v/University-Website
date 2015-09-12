@@ -6,7 +6,6 @@
 }
 
 html{
-    font-size: 16%;
 }
 
 
@@ -17,7 +16,7 @@ html{
 .text-bold{font-weight: bold;}
 
 h1{
-    font-size: 13.5rem;
+    font-size: 13.5vmin;
     /*font-size: 49px;*/
 
 
@@ -25,7 +24,7 @@ h1{
 
 h2, input[type="submit"]{
     /*font-size: 33px;*/
-    font-size: 7.1rem;
+    font-size: 7.1vmin;
     font-weight: normal;
 }
 
@@ -34,14 +33,14 @@ h2, input[type="submit"]{
 
 h3, textarea, input, select{
     /*font-size: 22px;*/
-    font-size: 5rem;
-    line-height: 8rem;
+    font-size: 5vmin;
+    line-height: 8vmin;
     text-decoration: none;
 }
 
 a{
     /*font-size: 22px;*/
-    font-size: 4.1rem;
+    font-size: 4.1vmin;
     text-decoration: none;
     color: #373737;
 }
@@ -50,8 +49,8 @@ a{
 
 p{
     /*font-size: 18px;*/
-    font-size: 4rem;
-    line-height: 6.8rem;
+    font-size: 4vmin;
+    line-height: 6.8vmin;
 }
 
 /*-----SPECIAL------------------------------------------------------*/
