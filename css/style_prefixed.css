@@ -35,8 +35,8 @@ h2, input[type="submit"]{
 
 h3, textarea, input, select{
     /*font-size: 22px;*/
-    font-size: 5.1vmin;
-    line-height: 7.1vmin;
+    font-size: 5vmin;
+    line-height: 7vmin;
     text-decoration: none;
 }
 
@@ -146,8 +146,8 @@ footer > div > *{
 
 header > div.in-circle,
 footer > div.in-circle{
-    width: 17.5vmin;
-    height: 17.5vmin;
+    width: 15.5vmin;
+    height: 15.5vmin;
     border-color: white;
     margin-top: 15px;
 }
