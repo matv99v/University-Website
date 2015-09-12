@@ -249,21 +249,22 @@ form > h2{
 form > *:not(h2):not([type="submit"]):not(textarea){
     width: 85%;
     color: #373737;
-    margin-bottom: 13px;
-    border: 2px solid #e1e1e1;
+    margin-bottom: 2.5vmin;
+    -border: 2px solid #e1e1e1;
+    border: none;
     border-radius: 0;
     background-color: #f2f2f2;
-    height: 12vmin;
-    line-height: 12vmin;
+    height: 11vmin;
+    line-height: 11vmin;
 }
 
 
 form > textarea {
     width: 85%;
-    -height: 72px;
     color: #373737;
-    margin-bottom: 13px;
-    border: 2px solid #e1e1e1;
+    margin-bottom: 2.5vmin;
+    -border: 2px solid #e1e1e1;
+    border: none;
     background-color: #f2f2f2;
     resize: none;
 
