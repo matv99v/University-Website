@@ -25,7 +25,7 @@
               <entry file="file://$PROJECT_DIR$/css/style.css">
                 <provider selected="true" editor-type-id="text-editor">
                   <state vertical-scroll-proportion="0.0">
-                    <caret line="15" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="512" selection-end-column="1" />
+                    <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
                     <folding />
                   </state>
                 </provider>
@@ -34,8 +34,8 @@
             <file leaf-file-name="style_prefixed.css" pinned="false" current-in-tab="true">
               <entry file="file://$USER_HOME$/Desktop/Koding/GoFe5/MakeUp/Exam2/css/style_prefixed.css">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state vertical-scroll-proportion="0.95412844">
-                    <caret line="605" column="1" selection-start-line="605" selection-start-column="1" selection-end-line="605" selection-end-column="1" />
+                  <state vertical-scroll-proportion="0.61926603">
+                    <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
                     <folding />
                   </state>
                 </provider>
@@ -116,7 +116,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1317" />
-    <option name="y" value="-729" />
+    <option name="y" value="39" />
     <option name="width" value="658" />
     <option name="height" value="729" />
   </component>
@@ -438,15 +438,15 @@
       <workItem from="1441807339257" duration="1658000" />
       <workItem from="1441828166804" duration="2448000" />
       <workItem from="1441948966823" duration="25739000" />
-      <workItem from="1442030640715" duration="9236000" />
+      <workItem from="1442030640715" duration="9307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193267000" />
+    <option name="totallyTimeSpent" value="193338000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1317" y="-729" width="658" height="729" extended-state="4" />
+    <frame x="-1317" y="39" width="658" height="729" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -779,15 +779,15 @@
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="512" selection-end-column="1" />
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/Koding/GoFe5/MakeUp/Exam2/css/style_prefixed.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.95412844">
-          <caret line="605" column="1" selection-start-line="605" selection-start-column="1" selection-end-line="605" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.61926603">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
           <folding />
         </state>
       </provider>
