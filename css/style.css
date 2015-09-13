@@ -167,7 +167,8 @@ footer > div.in-circle{
 header > div.socials,
 footer > div.socials{
     padding: 2vmin 0 4vmin 0;
-    justify-content: space-around;
+    display: flex;
+    justify-content: center;
 
 
 }

@@ -212,9 +212,14 @@ footer > div.in-circle{
 header > div.socials,
 footer > div.socials{
     padding: 2vmin 0 4vmin 0;
-    -webkit-justify-content: space-around;
-    -ms-flex-pack: distribute;
-    justify-content: space-around;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
 
 
 }
