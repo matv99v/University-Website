@@ -214,12 +214,14 @@ footer{
     padding-bottom: 70px;
 }
 
-header a, footer a {
+header svg,
+footer svg {
     fill: white;
     width: 6.25vmin;
     height: 6.25vmin;
-
 }
+
+
 
 
 /*-----BACKGROUND IMAGE------------------------------------------------------*/
