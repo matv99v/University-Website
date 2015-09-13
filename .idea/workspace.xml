@@ -31,8 +31,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.4879725">
-                  <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+                <state vertical-scroll-proportion="0.44329897">
+                  <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
                   <folding>
                     <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                     <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -56,8 +56,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.37931034">
-                  <caret line="521" column="18" selection-start-line="521" selection-start-column="18" selection-end-line="521" selection-end-column="18" />
+                <state vertical-scroll-proportion="0.43842363">
+                  <caret line="275" column="16" selection-start-line="275" selection-start-column="16" selection-end-line="275" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
@@ -67,7 +67,7 @@
             <entry file="file://$PROJECT_DIR$/css/style_prefixed.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0">
-                  <caret line="574" column="23" selection-start-line="574" selection-start-column="23" selection-end-line="574" selection-end-column="23" />
+                  <caret line="625" column="18" selection-start-line="625" selection-start-column="18" selection-end-line="625" selection-end-column="18" />
                   <folding />
                 </state>
               </provider>
@@ -102,9 +102,9 @@
         <option value="$PROJECT_DIR$/css/normalize.css" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$USER_HOME$/Desktop/Koding/GoFe5/MakeUp/Exam2/css/style_prefixed.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/style_prefixed.css" />
-        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -123,8 +123,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="49" />
-    <option name="y" value="-750" />
+    <option name="x" value="-1317" />
+    <option name="y" value="18" />
     <option name="width" value="1317" />
     <option name="height" value="750" />
   </component>
@@ -508,7 +508,7 @@
       <workItem from="1442030640715" duration="12688000" />
       <workItem from="1442072077729" duration="384000" />
       <workItem from="1442072485695" duration="10353000" />
-      <workItem from="1442123357014" duration="9165000" />
+      <workItem from="1442123357014" duration="9829000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1442072730722</created>
@@ -520,10 +520,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216621000" />
+    <option name="totallyTimeSpent" value="217285000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="-750" width="1317" height="750" extended-state="6" />
+    <frame x="-1317" y="18" width="1317" height="750" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -966,10 +966,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style_prefixed.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="625" column="18" selection-start-line="625" selection-start-column="18" selection-end-line="625" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43842363">
+          <caret line="275" column="16" selection-start-line="275" selection-start-column="16" selection-end-line="275" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4879725">
-          <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.44329897">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -982,22 +998,6 @@
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style_prefixed.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="574" column="23" selection-start-line="574" selection-start-column="23" selection-end-line="574" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37931034">
-          <caret line="521" column="18" selection-start-line="521" selection-start-column="18" selection-end-line="521" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
