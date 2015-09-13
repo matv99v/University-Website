@@ -90,11 +90,11 @@ div.socials{
 
 /*------------TRANSITIONS---------------------------------------------*/
 
-header a:active,
-footer a:active
+header a,
+footer a
 {
-    -webkit-transition: -webkit-transform 0.1s ease;
-    transition: transform 0.1s ease;
+    -webkit-transition: -webkit-transform 0.2s ease;
+    transition: transform 0.2s ease;
 }
 
 header a:active,
@@ -106,9 +106,9 @@ footer a:active
 }
 
 
-section.why-we-best div.in-circle:active{
-    -webkit-transition: -webkit-transform 0.1s ease, background-color 0.1s ease;
-    transition: transform 0.1s ease, background-color 0.1s ease;
+section.why-we-best div.in-circle{
+    -webkit-transition: -webkit-transform 0.2s ease, background-color 0.2s ease;
+    transition: transform 0.2s ease, background-color 0.2s ease;
 }
 
 section.why-we-best div.in-circle:active{
@@ -117,6 +117,30 @@ section.why-we-best div.in-circle:active{
     transform: scale(1.6, 1.6);
     background-color: #f2f2f2;
 }
+
+
+section.students-say div.in-circle{
+    -webkit-transition: background-color 0.2s ease;
+    transition: background-color 0.2s ease;
+}
+
+section.students-say div.in-circle:active{
+    background-color: #f2f2f2;
+}
+
+section.register div.in-circle{
+    -webkit-transition: -webkit-transform  0.5s ease;
+    transition: transform  0.5s ease;
+;
+}
+
+section.register div.in-circle:active{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+
 
 
 /*------BY CONTENT DIVISION-----------------------------------------------------*/
@@ -596,8 +620,8 @@ section.register div.in-circle svg{
 }
 
 
-
-
 /*--FOOTER---------------------------------------------------------*/
-footer{
+
+footer a{
+    color: white;
 }
