@@ -234,10 +234,6 @@ body > div{
     background-color: rgba(38, 126, 195, 0.67);
     width: 100%;
     position: absolute;
-    right: 0;
-    min-width: 300px;
-
-
 
 }
 
@@ -246,8 +242,7 @@ body > div > div.bg-img{
     background-size: 400%;
     height: 110vmin;
     width: 100%;
-    z-index: -1;
-    position: relative;
+    opacity: 0.5;
 
 }
 
