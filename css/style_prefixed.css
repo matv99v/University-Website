@@ -212,6 +212,8 @@ footer > div.in-circle{
 header > div.socials,
 footer > div.socials{
     padding: 2vmin 0 4vmin 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /*header > hr,*/
