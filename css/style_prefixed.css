@@ -218,13 +218,16 @@ header a, footer a {
 
 }
 
-/*header svg {*/
-/*transition: transform 0.2s ease;*/
-/*}*/
+a{
+    -webkit-transition: -webkit-transform 0.2s ease;
+    transition: transform 0.2s ease;
+}
 
-/*header svg:hover{*/
-/*transform: scale(1.4, 1.4);*/
-/*}*/
+a:hover, a:active{
+    -webkit-transform: scale(1.4, 1.4);
+    -ms-transform: scale(1.4, 1.4);
+    transform: scale(1.4, 1.4);
+}
 
 
 /*-----BACKGROUND IMAGE------------------------------------------------------*/
@@ -486,13 +489,9 @@ section.students-say div.in-circle > svg{
     fill: #373737;
     width: 8vmin;
     height: 8vmin;
-
 }
 
 section.students-say > div > nav > a:last-of-type {
-    -webkit-transform: scaleX(-1);
-    -ms-transform: scaleX(-1);
-    transform: scaleX(-1);
     margin-left: 4px;
 }
 
@@ -521,20 +520,19 @@ section.register{
     background-color: white;
     position: relative;
     width: 100%;
-    height: 367px;
+    height: 120vmin;
 }
 
 
 
 section.register > div.man-img {
-    position: absolute;
+    position: relative;
     background: url(../img/comment2.png) center center no-repeat;
     background-size: contain;
     height: 100%;
     width: 100%;
     bottom: 0;
     z-index: 1;
-
 }
 
 section.register > div.grey-div{
@@ -544,7 +542,6 @@ section.register > div.grey-div{
     height: 70%;
     top: 30%;
     display: table;
-
 }
 
 section.register > div.grey-div a.click-btn {
@@ -552,7 +549,6 @@ section.register > div.grey-div a.click-btn {
     display: table-cell;
     vertical-align: middle;
     z-index: 1;
-
 }
 
 section.register > div.grey-div a.click-btn > div {
@@ -566,7 +562,6 @@ section.register div.in-circle{
     width: 14vmin;
     height: 14vmin;
     border-color: #f3f3f3;
-
 }
 
 section.register div.in-circle svg{
@@ -583,5 +578,4 @@ section.register div.in-circle svg{
 
 /*--FOOTER---------------------------------------------------------*/
 footer{
-
 }
