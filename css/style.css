@@ -5,6 +5,7 @@
     -outline: 1px solid lime;
 }
 
+
 html{
 }
 
@@ -68,6 +69,32 @@ div.socials{
     display: inline-flex;
     align-items: center;
     justify-content: center;
+}
+
+
+
+/*------------TRANSITIONS---------------------------------------------*/
+
+header a:active,
+footer a:active
+{
+    transition: transform 0.1s ease;
+}
+
+header a:active,
+footer a:active
+{
+    transform: scale(1.6, 1.6);
+}
+
+
+section.why-we-best div.in-circle:active{
+    transition: transform 0.1s ease, background-color 0.1s ease;
+}
+
+section.why-we-best div.in-circle:active{
+    transform: scale(1.6, 1.6);
+    background-color: #f2f2f2;
 }
 
 
@@ -172,14 +199,6 @@ header a, footer a {
     width: 6.25vmin;
     height: 6.25vmin;
 
-}
-
-a{
-    transition: transform 0.2s ease;
-}
-
- a:hover, a:active{
-    transform: scale(1.4, 1.4);
 }
 
 
