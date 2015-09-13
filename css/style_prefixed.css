@@ -252,6 +252,8 @@ header div.socials > a,
 footer div.socials > a
 {
     line-height: 0;
+    width: 6.5vmin;
+    height: 6.5vmin;
 }
 
 
@@ -275,8 +277,10 @@ footer{
 header svg,
 footer svg {
     fill: white;
-    width: 6.25vmin;
-    height: 6.25vmin;
+    width: 99%;
+    height: 99%;
+
+
 }
 
 
@@ -296,7 +300,7 @@ body > div > div.bg-img{
     background-size: 400%;
     height: 110vmin;
     width: 100%;
-    opacity: 0.5;
+    opacity: 0.33;
 
 }
 
