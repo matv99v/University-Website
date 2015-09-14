@@ -426,7 +426,7 @@
     /*--------STUDENTS SAY---------------------------------------------------*/
     section.students-say {
         background-color: white;
-        margin: 4% 10% 0 10% ;
+        margin: 4vmin 10% 0 10% ;
 
     }
 
@@ -573,7 +573,7 @@
         background-color: #2B8DDD;
         width: 100%;
         table-layout: fixed;
-        padding-top: 5%;
+        padding-top: 5vmin;
     }
     footer a{
         color: white;
