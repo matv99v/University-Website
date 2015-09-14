@@ -7,15 +7,27 @@
 
     <title></title>
     <link href="css/normalize.css" rel="stylesheet">
-    <!--<link href="css/style.css" rel="stylesheet">-->
-    <link href="css/style_prefixed.css" rel="stylesheet">
+
+    <link rel="stylesheet"
+          type="text/css"
+          media="only screen and (max-device-width: 799px)"
+          href="css/mobile-prefix.css">
+
+    <link rel="stylesheet"
+          type="text/css"
+          media="only screen and (min-device-width: 800px) and (max-device-width: 999px)"
+          href="css/tablet-prefix.css">
+
+    <link rel="stylesheet"
+          type="text/css"
+          media="only screen and (min-device-width: 1000px)"
+          href="css/desktop-prefix.css">
 </head>
 <body>
 
     <header class="text-col-white">
         <div class="in-circle"><h2>ABC</h2></div>
         <h2>ABC UNIVERSITY</h2>
-        <!--<hr/>-->
         <div class="socials">
             <p>Connect:</p>
             <a href="https://www.facebook.com" target="_blank">
@@ -87,30 +99,39 @@
     <section class="why-we-best">
         <h2 class="text-col-blue">WHY WE ARE BEST</h2>
 
-        <div class="img-best building"></div>
-        <h3>QUALITY ENVIRONMENT</h3>
-        <p>We guide our students to find their own academic paths by helping them
-            to reason, analyze and understand in unprecedented ways. The undergraduate
-            experience at Duke is characterized by a spirit of academic energy,
-            exploration and challenge.</p>
-        <a href="#"><div class="in-circle">VIEW</div></a>
+        <div>
+            <div>
+                <div class="img-best building"></div>
+                <h3>QUALITY ENVIRONMENT</h3>
+                <p>We guide our students to find their own academic paths by helping them
+                    to reason, analyze and understand in unprecedented ways. The undergraduate
+                    experience at Duke is characterized by a spirit of academic energy,
+                    exploration and challenge.</p>
+                <a href="#"><div class="in-circle">VIEW</div></a>
+            </div>
 
-        <div class="img-best chemistry"></div>
-        <h3>QUALITY PROGRAMS</h3>
-        <p>We are a research university with resources to connect undergraduate
-                education to the processes of inquiry and discovery. Duke students explore
-                ideas by collaborating directly with our exceptional faculty in a program
-                of study that focuses on interdisciplinary exploration.</p>
-        <a href="#"><div class="in-circle">VIEW</div></a>
+            <div>
+                <div class="img-best chemistry"></div>
+                <h3>QUALITY PROGRAMS</h3>
+                <p>We are a research university with resources to connect undergraduate
+                        education to the processes of inquiry and discovery. Duke students explore
+                        ideas by collaborating directly with our exceptional faculty in a program
+                        of study that focuses on interdisciplinary exploration.</p>
+                <a href="#"><div class="in-circle">VIEW</div></a>
+            </div>
 
-        <div class="img-best teacher"></div>
-        <h3>EXCELLENT TEACHERS</h3>
-        <p>A student's education doesn't end at the classroom door. We provide
-            an incredible variety of opportunities for students to enhance and
-            supplement in-class learning with hands-on experiences, services in
-            the community—both locally and globally—and development of
-            leadership skills.</p>
-        <a href="#"><div class="in-circle">VIEW</div></a>
+            <div>
+                <div class="img-best teacher"></div>
+                <h3>EXCELLENT TEACHERS</h3>
+                <p>A student's education doesn't end at the classroom door. We provide
+                    an incredible variety of opportunities for students to enhance and
+                    supplement in-class learning with hands-on experiences, services in
+                    the community—both locally and globally—and development of
+                    leadership skills.</p>
+                <a href="#"><div class="in-circle">VIEW</div></a>
+            </div>
+        </div>
+
         <hr>
     </section>
 
@@ -192,8 +213,11 @@
 
     <footer class="text-col-white">
         <div class="in-circle"><h2>ABC</h2></div>
-        <h2>ABC UNIVERSITY</h2>
-        <!--<hr/>-->
+        <span>
+            <h2>ABC</h2>
+            <h2>UNIVERSITY</h2>
+            <hr/>
+        </span>
 
         <div class="socials">
             <p>Connect:</p>
