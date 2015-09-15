@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    -outline: 1px solid lime;
+    outline: 1px solid lime;
 }
 
 
@@ -355,8 +355,7 @@ form {
     right: 10%;
     top: 16vmin;
 
-    /*width: 28%;*/
-    width: 330px;
+    width: 28%;
     position: absolute;
     display: -webkit-inline-box;
     display: -webkit-inline-flex;

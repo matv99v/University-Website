@@ -278,8 +278,7 @@ form {
     right: 10%;
     top: 16vmin;
 
-    /*width: 28%;*/
-    width: 330px;
+    width: 28%;
     position: absolute;
     display: inline-flex;
     flex-direction: column;

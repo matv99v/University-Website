@@ -59,21 +59,21 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="desktop.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="desktop.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/desktop.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="274" column="23" selection-start-line="274" selection-start-column="23" selection-end-line="274" selection-end-column="23" />
+                <state vertical-scroll-proportion="0.5320197">
+                  <caret line="281" column="21" selection-start-line="281" selection-start-column="21" selection-end-line="281" selection-end-column="21" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="desktop-prefix.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="desktop-prefix.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/desktop-prefix.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.18900344">
-                  <caret line="356" column="0" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
+                <state vertical-scroll-proportion="-11.703704">
+                  <caret line="357" column="15" selection-start-line="357" selection-start-column="15" selection-end-line="357" selection-end-column="15" />
                   <folding />
                 </state>
               </provider>
@@ -116,8 +116,8 @@
         <option value="$PROJECT_DIR$/css/tablet.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/tablet-prefix.css" />
-        <option value="$PROJECT_DIR$/css/desktop.css" />
         <option value="$PROJECT_DIR$/css/desktop-prefix.css" />
+        <option value="$PROJECT_DIR$/css/desktop.css" />
       </list>
     </option>
   </component>
@@ -529,7 +529,7 @@
       <workItem from="1442123357014" duration="39256000" />
       <workItem from="1442214361165" duration="36439000" />
       <workItem from="1442304183900" duration="4285000" />
-      <workItem from="1442319802225" duration="4191000" />
+      <workItem from="1442319802225" duration="4351000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1442072730722</created>
@@ -541,7 +541,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="291627000" />
+    <option name="totallyTimeSpent" value="291787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1317" y="-750" width="1317" height="750" extended-state="6" />
@@ -1246,18 +1246,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/desktop.css">
+    <entry file="file://$PROJECT_DIR$/css/desktop-prefix.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="274" column="23" selection-start-line="274" selection-start-column="23" selection-end-line="274" selection-end-column="23" />
+        <state vertical-scroll-proportion="-11.703704">
+          <caret line="357" column="15" selection-start-line="357" selection-start-column="15" selection-end-line="357" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/desktop-prefix.css">
+    <entry file="file://$PROJECT_DIR$/css/desktop.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18900344">
-          <caret line="356" column="0" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5320197">
+          <caret line="281" column="21" selection-start-line="281" selection-start-column="21" selection-end-line="281" selection-end-column="21" />
           <folding />
         </state>
       </provider>
