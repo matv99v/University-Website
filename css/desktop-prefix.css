@@ -355,7 +355,8 @@ form {
     right: 10%;
     top: 16vmin;
 
-    width: 28%;
+    /*width: 28%;*/
+    width: 240px;
     position: absolute;
     display: -webkit-inline-box;
     display: -webkit-inline-flex;
@@ -846,4 +847,5 @@ footer svg{
     height: 3.75vmin;
     margin-left: 2vmin;
 }
+
 

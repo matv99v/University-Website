@@ -334,7 +334,8 @@ section.welcome h1 {
 form {
     right: 3%;
     top: 24vmin;
-    width: 42%;
+    /*width: 42%;*/
+    width: 300px;
 
     position: absolute;
     display: -webkit-inline-box;
